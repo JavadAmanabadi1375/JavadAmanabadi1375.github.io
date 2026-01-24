@@ -1,8 +1,0 @@
-title: Research Group
-description: Academic lab website
-theme: minima
-collections:
-  projects:
-    output: true
-  people:
-    output: true
