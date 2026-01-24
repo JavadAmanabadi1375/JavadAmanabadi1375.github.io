@@ -5,15 +5,16 @@ icon_img: /assets/img/icon.webp
 name: "Javad Amanabadi"
 job: "PhD Student"
 
-phone_number: 012-345-6789
-address: City, Country
+phone_number: +45-91842974
+address: Center for Energy Resources Engineering (CERE), Department of Chemical and Biochemical Engineering, 
+Technical University of Denmark, 2800 Kgs. Lyngby, Denmark.
 email: email@example.com
-linkedin_username: linkedin
-github_username: github
-instagram_username: instagram
+linkedin_username: javad-amanabadi-460989163
+github_username: JavadAmanabadi1375
+instagram_username: javad_jiachi97
 twitter_username: twitter
 facebook_username: facebook
-youtube_username: youtube
+youtube_username: ScratToWork
 blog_url: homepage-url
 
 # If your repo name follows the format "<user-name>.github.io", then leave the below blank.
