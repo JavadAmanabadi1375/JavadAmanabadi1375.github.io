@@ -1,1 +1,0 @@
-# JavadAmanabadi1375.github.io
