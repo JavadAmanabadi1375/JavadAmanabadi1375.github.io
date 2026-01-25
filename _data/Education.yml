@@ -2,7 +2,7 @@ subject: Education
 listing-order: 1
 icon: "/assets/img/graduation-cap.svg"
 contents:
-  - title: Farvard University, PhD in Computer Science
+  - title: Technical University of Denmark, PhD in Chemical Engineering
     description:
       - Design of a method to build a probabilistic generative model
       - Development of model calibration algorithm for cross-domain few-shot learning
