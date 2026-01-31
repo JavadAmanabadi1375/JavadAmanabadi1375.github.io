@@ -15,7 +15,7 @@ contents:
     "
   - title: Petroleum Engineering Software
     description: "
-      - Simulation Software (Eclipse, Petrel, CMG, Petex package).
-      - Phase Behavior Modeling (PVTi, PVT Pro, WinProp, PVTSim).
+      - Simulation Software (Eclipse, Petrel, CMG, Petex package);
+      - Phase Behavior Modeling (PVTi, PVT Pro, WinProp, PVTSim);
       - Multiphase Flow Simulation (IPM package).
     "
