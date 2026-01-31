@@ -2,12 +2,10 @@ subject: Awards
 listing-order: 6
 icon: "/assets/img/trophy.svg"
 contents:
-  - title: IEEEE Fellow
-    description: Association for Natural Language Processing
-    date: Feb. 2024
-  - title: Gogle CodeJam
-    description: 3rd place in Gogle CodeJam
-    date: Jul. 2013
-  - title: Millennium Hackaton
-    description: won the best Inspirational Youth Awards
-    date: Oct. 2010
+  - title: National University Entrance Examination (MSc)
+    description: Ranked 7th nationwide in the national university entrance examination for the MSc program in Reservoir Engineering.
+    date: Jan. 2024
+
+  - title: Best Oral Presentation Award (Doctoral Student)
+    description: Awarded for best oral presentation at the 21st Asian Pacific Confederation of Chemical Engineering Congress (APCChE 2025).
+    date: Jul. 2025
