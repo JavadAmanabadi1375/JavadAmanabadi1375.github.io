@@ -2,12 +2,15 @@ subject: Experiences
 listing-order: 2
 icon: "/assets/img/briefcase.svg"
 contents:
-  - title: Nanosoft
-    role: Project Manager
+  - title: Acidizing Simulation Software Developer (Full-Time) Abdal Industrial Projects Management Co. (MAPSA), Tehran, Iran.
+    role: Computational Software Developer
     description:
-      - Led development of a new chatbot software utilizing large language model
-      - Co-designer of '*Kopilot*' and '*Gemmini*'
-    date: Jan. 2024 - Ongoing
+      - Developed a Windows desktop application using C# language and WPF UI Framework as a member of the acidizing design software developers team
+      - Simulation of reactive flow in porous media in core and field scale simulations.
+      - Member of PVT software developer, working on the development of molecular thermodynamic EoS.
+      - Determination of rock physical properties with statistical methods ( Kriging, Co-Kriging, Indicator Kriging, ...) by C# (back-end) and WPF (front-end).
+      - Well-schematic design using WPF. 
+    date: Oct. 2021 - 2024 Nov.
   - title: Amazone
     role: Senior Software Engineer
     description: 
