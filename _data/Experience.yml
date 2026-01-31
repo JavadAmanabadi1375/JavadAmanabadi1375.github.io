@@ -11,15 +11,18 @@ contents:
       - Determination of rock physical properties with statistical methods ( Kriging, Co-Kriging, Indicator Kriging, ...) by C# (back-end) and WPF (front-end).
       - Well-schematic design using WPF. 
     date: Oct. 2021 - 2024 Nov.
-  - title: Amazone
-    role: Senior Software Engineer
+  - title: Estimation of hydrocarbon in place using “Bayesian algorithm” (Web-application ASP.NET), National Elite Foundation Project, Iranian Central Oil Fields Company (I.C.O.F.C)
+    role: Computational Software Developer (Part-time)
     description: 
-      - Built a Java microservice, database schema to manage customer accounts
-      - Enhanced internal pipelines to query real-time data from client devices
-    date: Apr. 2016 - Dec. 2018
-  - title: Pacebook
-    role: Software Engineer Intern
+      - Estimation of hydrocarbon in place for multi-reservoirs by applying the Joint Density Distribution function.
+      - Estimation of hydrocarbon in place using “Bayesian algorithm” (Web-application)
+      - Estimation capabilities for hydrocarbon in place using Monte Carlo Markov Chain (MCMC) simulation, particularly tailored for sequential data. 
+      - Reporting module using Stimulsoft software plug-in. 
+    date: Sep. 2023 - Sep. 2024
+  - title: Benchmarking of EoS for thermophysical properties.
+    role: PhD
     description: 
-      - Designed the dynamic website using React for data visualization
-      - Integrated '*Yolo*' to boost the accuracy of the object detection
-    date: Jul. 2013 - Sep. 2013
+      - Developed and curated thermodynamic databases for the characterization and completion of pure and multicomponent fluid mixtures.
+      - Adapted and applied open-source PVT and thermodynamic modeling tools (e.g., Clapeyron.jl) to support advanced mixture property calculations.
+      - Collaborated within a distributed research team using GitHub for version control, issue tracking, and coordinated project development.
+    date: Jan. 2024 - Present
